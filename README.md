@@ -284,7 +284,10 @@ Snapshot 2: Services in Azure
 
 
 
-![Uploading Screenshot 2025-09-18 110850.png…]()
+
+
+
+<img width="1365" height="767" alt="Screenshot 2025-09-18 110850" src="https://github.com/user-attachments/assets/9af9a63c-1101-4401-860c-002cb4d7a7a0" />
 
 
 ## *Result:*
